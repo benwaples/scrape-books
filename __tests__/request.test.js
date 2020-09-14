@@ -1,4 +1,4 @@
-const request = require('../lib/.gitKeep/request');
+const request = require('../lib/request');
 
 describe('request Function', () => {
   it('makes a request to the Books To Scrape page', async() => {
